@@ -4,11 +4,12 @@ Analysis on sales in the month of January 2022 and December 2022
 ### Business Task
 - To understand how different sales in the month of January and December 2022 are.
 
-### Data Set
-- View [Dataset](https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed.csv).
+### Dataset
+- View [January Dataset](https://github.com/sanjanand06/TechnoEdge-Sales-Report/blob/main/2022-January.csv)
+- View [December Dataset](https://github.com/sanjanand06/TechnoEdge-Sales-Report/blob/main/2022-December.csv).
 
 ### Tools
-- Microsoft Excel  - View [Excel Spreadsheet](https://github.com/sanjanand06/Bike-Trip-Dashboard/blob/main/202310-divvy-tripdata-%20Transformed-%20Final.csv)
+- Microsoft PowerBI  - View [Dashboard](https://github.com/sanjanand06/TechnoEdge-Sales-Report/blob/main/Sales%20Analysis%20-%20Google.pbix)
 
 ### Analysis
 - There has been significant increase in the business
